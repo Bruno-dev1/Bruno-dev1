@@ -33,7 +33,12 @@ I am constantly looking to improve my skills through studies, personal projects,
 ## 🎮 Game Development
 
 - GameMaker Studio
+<p>
+  <p>
+  <img src="https://skillicons.dev/icons?i=gamemakerstudio	" />
+</p>
 
+</p>
 ---
 
 # 📚 Currently Studying
